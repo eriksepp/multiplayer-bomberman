@@ -1,5 +1,13 @@
 # Bomberman Multiplayer Game
 
+## Authors
+
+[ehspp](https://github.com/eriksepp/)
+
+[Grex](https://01.kood.tech/git/Grex)
+
+[MarkusKa](https://01.kood.tech/git/MarkusKa)
+
 ## Overview
 
 Welcome to the Bomberman Multiplayer Game! This game allows up to four players to engage in a classic Bomberman experience. Players navigate a grid-based arena, strategically placing bombs to eliminate opponents while avoiding explosions.
@@ -31,7 +39,7 @@ To run the Bomberman game, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://01.kood.tech/git/ehspp/bomberman-dom.git
+   git clone https://github.com/eriksepp/multiplayer-bomberman.git
    cd bomberman
    ```
 
@@ -82,11 +90,3 @@ Enjoy the Bomberman game with friends!
 ## Potential Hardware Issue: Key Ghosting
 
 Experiencing key combinations not registering correctly? Your keyboard may be affected by key ghosting. Test it using the [Microsoft Anti-Ghosting Demo](https://www.microsoft.com/applied-sciences/projects/anti-ghosting-demo).
-
-## Authors
-
-[ehspp](https://01.kood.tech/git/ehspp)
-
-[Grex](https://01.kood.tech/git/Grex)
-
-[MarkusKa](https://01.kood.tech/git/MarkusKa)

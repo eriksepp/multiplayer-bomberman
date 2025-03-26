@@ -1,5 +1,9 @@
 # Bomberman Multiplayer Game
 
+## Overview
+
+Welcome to the Bomberman Multiplayer Game! This game allows up to four players to engage in a classic Bomberman experience. Players navigate a grid-based arena, strategically placing bombs to eliminate opponents while avoiding explosions.
+
 ## Authors
 
 [ehspp](https://github.com/eriksepp/)
@@ -8,9 +12,10 @@
 
 [MarkusKa](https://01.kood.tech/git/MarkusKa)
 
-## Overview
-
-Welcome to the Bomberman Multiplayer Game! This game allows up to four players to engage in a classic Bomberman experience. Players navigate a grid-based arena, strategically placing bombs to eliminate opponents while avoiding explosions.
+## Screenshots
+<img src="screenshots/1.png" width="800" /><br>
+<img src="screenshots/2.png" width="800" /><br>
+<img src="screenshots/3.png" width="800" /><br>
 
 ## Features
 
